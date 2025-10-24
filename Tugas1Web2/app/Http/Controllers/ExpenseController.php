@@ -1,5 +1,9 @@
 <?php
 
+//php artisan make:model Expense -m 
+
+// php artisan make:controller ExpenseController --api
+
 namespace App\Http\Controllers;
 
 use App\Models\Expense;
